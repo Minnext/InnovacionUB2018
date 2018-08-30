@@ -46,7 +46,7 @@ Another good example is an Smart contract in place to regulate the miner’s opt
 Among other data sources, the data we’re leveraging through our proposed Wireless Sensors Networks (WSN) includes, but not limited to, miners’ blood pressure levels and safe heart rate ranges, toxic gas exposure (CH4, CO, H2S, SO2, NO2, NH3) levels, respirable dust rates, employees Geo-positional tracking, altitude and others, as well as environmental variables like atmospheric and negative pressure, or local temperature.
 
 
-##Connectivity and data driven approach.
+## Connectivity and data driven approach.
 
 To address connectivity requirements, our solution is going to be built in accordance with adequate protocols, interconnecting actors to the Internet through radio frequency identification (RFID). 
 
