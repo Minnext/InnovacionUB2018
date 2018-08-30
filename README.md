@@ -1,4 +1,4 @@
-# InnovtionUB2018
+# InnovationUB2018
 ## Enabling underground mining management for the Cloud with IoT ready sensors, smart contracts and the distributed capabilities of a Blockchain network.
 #### Camila Carvajal Villamil, Valentina Casallas Chaves,  Federico Estupiñán Carreño, Daniel Lozano Navas
 
